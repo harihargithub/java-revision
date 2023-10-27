@@ -1,0 +1,6 @@
+PS C:\Users\nhari\OneDrive\Documents\iitr gl apcifsd\java vsc\06_GL_Java_FSD_Combined_02_Participants-main\Week-03\string-operations\src\main\java> javac .\gl\palindrome\PalindromeAlgorithm1.java
+
+PS C:\Users\nhari\OneDrive\Documents\iitr gl apcifsd\java vsc\06_GL_Java_FSD_Combined_02_Participants-main\Week-03\string-operations\src\main\java> java .\gl\palindrome\PalindromeAlgorithm1.java 
+
+O hello, R olleh
+false
